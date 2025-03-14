@@ -90,6 +90,7 @@ iconfont: "1832207_igi8uaupcus"
 
 menu:
   home: / || home
+  main: / || home
   # about: /about/ || user
   # posts:
   #   default: / || feather
